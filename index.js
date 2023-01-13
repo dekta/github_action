@@ -1,4 +1,5 @@
 console.log("Yes")
 
-const rn = require('random-number');
-console.log(rn())
+//const rn = require('random-number');
+//console.log(rn())
+

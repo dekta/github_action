@@ -19,5 +19,9 @@
   "homepage": "https://github.com/dekta/github_action#readme",
   "dependencies": {
     "random-number": "^0.0.9"
+  },
+  "devDependencies": {
+    "eslint": "^8.31.0",
+    "eslint-plugin-react": "^7.32.0"
   }
 }
